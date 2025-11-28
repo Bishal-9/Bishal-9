@@ -1,55 +1,34 @@
-# Hi there! 👋 I'm Bishal Goon
+# 👋 Hi, I'm Bishal Goon
 
-🚀 **Rust & Solana Developer | HFT Engineer | Full-Stack Enthusiast**
+Senior Rust Engineer with 3+ years architecting ultra-low-latency HFT systems for crypto derivatives on Binance, Bybit, and Deribit. Expert in zero-copy deserialization, Tokio concurrency, and Solana blockchain programs. Currently at Audace Labs, optimizing on-chain trading strategies.
 
----
+## 🚀 About Me
+- 🔭 **Current Focus**: Building high-throughput Solana programs with gRPC Geyser streams and real-time transaction monitoring.
+- 🌱 **Learning**: Advanced Rust ownership patterns for lock-free data structures and cross-chain DeFi arbitrage.
+- 💼 **Experience**: Reduced WebSocket processing by 40% and REST latency by 90% in production HFT stacks; 99.9% uptime via fault-tolerant microservices.
+- 🤝 **Open To**: Collaborations in Web3, low-latency fintech, and Rust-based trading infrastructure.
+- ⚡ **Fun Fact**: Won Future Proof Hackathon 2020 for a Flutter app combating COVID-19 spread via contactless ticketing.
 
-## 🛠 Tech Stack
-- **Languages:** Rust, NodeJS, JavaScript (ReactJS), TypeScript
-- **Blockchain:** Solana, Web3, gRPC
-- **HFT & Trading:** Binance API, Deribit API, WebSockets
-- **Infrastructure:** Linux, Docker, AWS
-- **Optimization:** Async Rust (Tokio), Multi-threading, Low-latency Systems
+## 🛠️ Tech Stack
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+- **Languages**: Rust (Expert), Node.js, React
+- **Frameworks/Tools**: Tokio, Reqwest, Serde, Prometheus, Grafana, gRPC
+- **Domains**: HFT Order Routing, WebSocket/REST APIs, Blockchain Data Parsing, Low-Level Networking (epoll, libc)
 
-## 💼 Experience
-- **Rust Engineer @ Audace Labs** – Building Solana programs & monitoring tools.
-- **HFT Developer @ Teesta Investment** – Optimizing trading strategies & low-latency execution.
-- **Software Engineer @ LegoDesk** – Full-stack development & performance tuning.
-- **MERN Developer @ Varlyq Technologies** – Web applications & team collaboration.
+## 📊 GitHub Activity & Stats
 
----
+<!-- Contribution graph -->
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bishal-9&theme=react-dark&area=true)
 
-## 🏆 Achievements
-- **Winner** of *Future Proof Hackathon 2020* – Built *Musafir*, an automated bus ticket booking system.
+## 📫 Let's Connect
+- 📧 Email: work.bishalgoon@gmail.com
+- 💼 LinkedIn: [in/bishal-goon](https://www.linkedin.com/in/bishal-goon)
 
----
-
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Bishal--9-informational?style=flat&logo=github)](https://github.com/Bishal-9)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bishal%20Goon-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bishal-goon/)  
-📧 work.bishalgoon@gmail.com  
-
----
-
-## 📜 Certifications
-
-- **Networking in Google Cloud Platform** - Coursera
-  - Completed a specialization on networking in Google Cloud Platform, gaining expertise in GCP network services, virtual private cloud, and network security.
-  - [Certification Link](https://coursera.org/share/538dcee9a4ad07fd8590900ab452e602)
-  - [Course URL](https://www.coursera.org/specializations/networking-google-cloud-platform)
-
-- **Secure Coding Principles** - Coursera
-  - Completed a course on secure coding principles, gaining a comprehensive understanding of best practices and methodologies for developing secure software.
-  - [Certification Link](https://coursera.org/share/880e528535749b1132de2305d37e8a37)
-  - [Course URL](https://www.coursera.org/learn/secure-coding-principles)
-
-- **Computer Networking** - Coursera
-  - Acquired in-depth knowledge of computer networking concepts, including protocols, network architecture, and security.
-  - [Certification Link](https://coursera.org/share/946d42d8aef8a6375e57772d7f7b738d)
-  - [Course URL](https://www.coursera.org/learn/computer-networking)
-
----
-
-⭐ **Check out my repos & let's build something cool!**
+Thanks for visiting! Star ⭐ my repos if they help with your HFT or Rust projects.
